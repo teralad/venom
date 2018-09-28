@@ -7,5 +7,5 @@ class E:
         return encoded_value.decode("utf-8")
 
 if __name__ == '__main__':
-    e =E();
+    e =E()
     print(e.encode(sys.argv[1]))
