@@ -13,7 +13,7 @@
 
 3. Run the following command inside the directory
     
-        bash ~/.run.sh
+        bash run.sh
 
 4. Once it is done,close the terminal and open a new session
 
