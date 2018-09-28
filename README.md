@@ -5,7 +5,7 @@
 
 1. clone the repository to your local.
 
-        git clone https://github.com/premsvmm/venom.git 
+        git clone https://github.com/premsvmm/venom.git
         
 2. Move to the repositry in your terminal        
 
