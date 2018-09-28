@@ -7,7 +7,7 @@
 
         git clone https://github.com/premsvmm/venom.git
         
-2. Move to the repositry in your terminal        
+2. Move to the repository in your terminal        
 
         cd  <Location of the directory file>
 
