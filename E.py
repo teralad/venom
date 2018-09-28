@@ -7,7 +7,7 @@ class E:
             encoded_value = base64.b64encode(bytes((f'Location:{Location}'), 'utf-8'))
             return encoded_value.decode("utf-8")
         except:
-            return "exception in encode"
+            return "Exception during encode"
 
 if __name__ == '__main__':
     e = E()
