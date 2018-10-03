@@ -15,12 +15,12 @@
     
         bash run.sh
 
-4. Once it is done,close the terminal and open a new session
+4. Once above process finishes, close the terminal and open a new session
 
-    For encoded a location id
+    To encode a key
         
         e 12345
         
-    For decode a location id
+    to decode a key
         
         d TG9jYXRpb246MTM1OTk=                      
